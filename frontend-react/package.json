@@ -8,7 +8,7 @@
     "yarn": "^1.22.4"
   },
   "devDependencies": {
-    "react-scripts": "1.0.7"
+    "react-scripts": "5.0.1"
   },
   "proxy": "http://backend:8000",
   "scripts": {
